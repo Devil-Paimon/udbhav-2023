@@ -610,8 +610,8 @@ export const Department = {
 			name: "Abhishek kant",
 			image:
 				"https://ik.imagekit.io/e5ixuxrlb/Udbhav/Coordinators/img.jpeg?updatedAt=1681230978329",
-			contact: 123456789,
-			email: "test@test.test",
+			contact: 8824282137,
+			email: "kant.abhi27@gmail.com",
 			show: true,
 			post: "",
 		},
